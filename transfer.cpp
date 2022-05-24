@@ -1,6 +1,6 @@
 void Bank::bankTransferScreen()
 {
-    system("cls");
+    system("cls"); 
     header();
     if (authenticated)
     {   
